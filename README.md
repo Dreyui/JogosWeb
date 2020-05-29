@@ -4,6 +4,9 @@
 <p><a href="https://dreyui.github.io/JogosWeb/pagina2.html">Página exemplo</a></p>
 <hr>
 <h2>Criação de arquivo CSS: </h2>
+<p><a href="https://dreyui.github.io/JogosWeb/andreycss.html">Pagina com nome(CSS)</a></p>
+<p><a href="https://dreyui.github.io/JogosWeb/pagina2css.html">Página exemplo(CSS)</a></p>
+<p><a href="https://dreyui.github.io/JogosWeb/styles.css">Arquivo CSS usado</a></p>
 <hr>
 <h2>Criação de uma imagem SVG: </h2>
 <hr>
