@@ -1,6 +1,6 @@
 # JogosWeb
 <h2>Criação de arquivo HTML: </h2>
-<p><a href="/andrey.html">Pagina com nome</a></p>
+<p><a href="JogosWeb/andrey.html">Pagina com nome</a></p>
 <hr>
 <h2>Criação de arquivo CSS: </h2>
 <hr>
