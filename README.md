@@ -12,6 +12,6 @@
 <p><a href="https://dreyui.github.io/JogosWeb/japanflag.html">Bandeira Japonesa SVG</a></p>
 <hr>
 <h2>Criação de animações com imagens SVG</h2>
-<p><a href="https://dreyui.github.io/JogosWeb/animacoes_svg.html">3 Objetos animados SVG</a></p>
+<p><a href="https://dreyui.github.io/JogosWeb/animations_svg.html">3 Objetos animados SVG</a></p>
 
  
