@@ -1,6 +1,7 @@
 # JogosWeb
 <h2>Criação de arquivo HTML: </h2>
 <p><a href="https://dreyui.github.io/JogosWeb/andrey.html">Pagina com nome</a></p>
+<p><a href="https://dreyui.github.io/JogosWeb/pagina2.html">Página exemplo</a></p>
 <hr>
 <h2>Criação de arquivo CSS: </h2>
 <hr>
