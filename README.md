@@ -1,2 +1,3 @@
 # JogosWeb
-<h1>Criação de arquivo HTML </h1>
+<hr>
+<h2>Criação de arquivo HTML </h2>
