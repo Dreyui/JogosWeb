@@ -9,6 +9,7 @@
 <p><a href="https://dreyui.github.io/JogosWeb/styles.css">Arquivo CSS utilizado</a></p>
 <hr>
 <h2>Criação de uma imagem SVG: </h2>
+<p><a href="https://dreyui.github.io/JogosWeb/japanflag.html">Bandeira Japonesa SVG</a></p>
 <hr>
 <h2>Criação de animações com imagens SVG</h2>
 
