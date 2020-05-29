@@ -5,7 +5,7 @@
 <hr>
 <h2>Criação de uma imagem SVG: </h2>
 <hr>
-<h2Criação de animações com imagens SVG</h2>
+<h2>Criação de animações com imagens SVG</h2>
 
 
  
